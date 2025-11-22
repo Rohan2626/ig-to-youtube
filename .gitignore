@@ -1,5 +1,8 @@
-token.json
-downloads/
-.__pycache__/
 .env
+__pycache__/
 *.pyc
+downloads/
+uploaded_videos/
+*.log
+yt_token_info.json
+client_secrets.json
