@@ -1,4 +1,6 @@
-google-auth
-google-auth-oauthlib
-google-auth-httplib2
-google-api-python-client
+instaloader==4.9
+google-api-python-client==2.97.0
+google-auth==2.22.0
+google-auth-oauthlib==1.2.0
+python-dotenv==1.0.0
+requests==2.31.0
